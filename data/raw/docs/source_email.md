@@ -1,0 +1,5 @@
+- **Qui** produit cette donnée ? (clients via leur boîte mail)
+- **Quelle volumétrie** réelle estimer ? (à partir du fichier fourni, extrapoler à un mois, un an)
+- **Quel format brut** (`mbox`) et quels champs portent une info exploitable (`From`, `Subject`, `Date`, `Body`, `Message-ID`, `In-Reply-To`)
+- **Quelles données personnelles** sont nécessairement présentes (adresse email, nom dans la signature, références client) → rappel des règles M2 sur l'anonymisation
+- **Quels biais ce canal va-t-il introduire** dans le dataset global ? (clientèle email = profil plus âgé, demandes plus longues et plus formelles que le chat — à vérifier au Brief 2)
